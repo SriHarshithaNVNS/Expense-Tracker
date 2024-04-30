@@ -1,0 +1,19 @@
+{
+    "expenses": [
+        {
+            "category": "Transportation",
+            "amount": 30,
+            "date": "2024-04-24"
+        },
+        {
+            "category": "Beauty",
+            "amount": 100,
+            "date": "2024-04-22"
+        },
+        {
+            "category": "Books",
+            "amount": 100,
+            "date": "2024-04-28"
+        }
+    ]
+}
